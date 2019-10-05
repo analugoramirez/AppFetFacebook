@@ -7,6 +7,10 @@ Proyecto desarrollado para el profesor Zambrano
 [Vuejs](https://vuejs.org/)
 
 
+## DEVELOPER'S
+Ana Maria Lugo Ramirez 
+Maria Rojas
+ 
 ## Project setup
 ```
 Importante instalar yarn despues de realizar la instalación del NODEJS porque este proyecto no cargo con NPM
@@ -18,6 +22,3 @@ yarn run test
 yarn run lint
 ```
 
-##DEVELOPER'S
-Ana Maria Lugo Ramirez 
-Maria Rojas
